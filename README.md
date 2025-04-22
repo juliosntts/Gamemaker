@@ -35,4 +35,8 @@ Este projeto consiste em um servidor web simples desenvolvido em Python que exib
    ```
 
 ## Autores
-- [ JULIO, RODRIGO, KAIQUE, GUILHERME ]
+- [ Rodrigo Araújo Gonçalves Ribeiro,
+- Caique Kelvin Ferreira de Melo
+- Guilherme Santos Toaiari de Moraes
+- Júlio Nascimento Santos
+ ]
